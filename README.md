@@ -82,11 +82,11 @@ I reply. I'm easy to work with. Let's build something.
 ---
 
 <p align="center">
-  ![Vikas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pateldevlop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=Pateldevlop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vikas's GitHub Stats" height="170" />
   &nbsp;
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Pateldevlop&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=Pateldevlop&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pateldevlop&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pateldevlop&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
 ---
