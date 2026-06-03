@@ -1,10 +1,78 @@
-- 👋 Hi, I’m Vikas Patel, currently pursuing my Masters from AKTU , in Master of Computer Application.
-- 👀 I’m interested in development. I also enjoy doing competitive programming.
-<!---- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hey, I'm Vikas Patel 👋
 
+Full-Stack Software Engineer based in India — I build things for the web that actually work.  
+I've spent years shipping production-grade applications using **PHP, Laravel, Node.js, and Docker**,  
+working across startups and agencies, turning messy requirements into clean, maintainable code.
 
-Pateldevlop/Pateldevlop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Whether it's a REST API at 2am or a CI/CD pipeline that finally stops breaking on Fridays — I'm your person.
+
+---
+
+## 🛠️ What I Work With
+
+**Backend**
+`PHP` `Laravel` `CodeIgniter` `Node.js` `REST APIs`
+
+**Frontend**
+`HTML` `CSS` `Bootstrap` `JavaScript`
+
+**Database**
+`MySQL`
+
+**DevOps & Tooling**
+`Docker` `CI/CD` `Git` `GitHub` `Jira`
+
+---
+
+## 🚀 What I'm Currently Working On
+
+- Deepening my Docker + CI/CD workflow for faster, cleaner deployments
+- Building full-stack projects with Laravel + Node.js to keep both sides sharp
+- Exploring scalable backend architecture patterns
+
+---
+
+## 💼 What I'm Open To
+
+I'm actively looking for:
+
+- 🌍 **Remote roles** — full-time or contract, timezone-flexible
+- 💻 **Freelance projects** — web apps, APIs, backend systems, or long-term product work
+- 🏢 **Onsite opportunities** — open to relocation for the right role
+
+I work well independently and inside teams. I read documentation before asking questions. I write code I'd be comfortable reviewing six months later.
+
+---
+
+## 📌 A Few Projects
+
+> *(More coming soon — actively updating this section)*
+
+| Project | Stack | Description |
+|---|---|---|
+| [php-master-guide](https://github.com/Pateldevlop/php-master-guide) | PHP | Step-by-step PHP developer reference |
+| [patel.github.io](https://github.com/Pateldevlop/patel.github.io) | HTML/CSS | Personal web presence |
+| [javascript-master-guide](https://github.com/Pateldevlop/javascript-master-guide) | JavaScript | JS concepts from basics to advanced |
+
+---
+
+## 📫 Let's Connect
+
+If you've got a project, a role, or just want to talk shop — reach out.  
+I reply. I'm easy to work with. Let's build something.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/vikas-patel-703152218)
+- 🐦 [Twitter / X](https://twitter.com/vpateldev)
+- 📧 Drop me a message via LinkedIn DM — fastest way to reach me
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pateldevlop&show_icons=true&theme=dark&hide_border=true" alt="Vikas's GitHub stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pateldevlop&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+*Open to work · Available now · Let's talk*
