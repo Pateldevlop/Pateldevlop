@@ -87,6 +87,8 @@ I reply. I'm easy to work with. Let's build something.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pateldevlop&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
 </p>
 
+![Snake animation](https://raw.githubusercontent.com/Pateldevlop/Pateldevlop/output/snake.svg)
+[![Vikas's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pateldevlop&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Pateldevlop&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
