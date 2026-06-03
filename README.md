@@ -105,8 +105,7 @@ I work well independently and inside teams. I read documentation before asking q
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <!-- <img src="https://raw.githubusercontent.com/Pateldevlop/Pateldevlop/output/snake.svg" alt="Snake animation" /> -->
-  ![Snake animation](https://raw.githubusercontent.com/Pateldevlop/Pateldevlop/output/snake.svg)
+  <img src="https://raw.githubusercontent.com/Pateldevlop/Pateldevlop/output/snake.svg" alt="Snake animation" />
 </p>
 
 <details>
