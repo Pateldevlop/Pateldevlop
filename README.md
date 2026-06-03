@@ -56,6 +56,8 @@ Whether it's a REST API at 2am or a CI/CD pipeline that finally stops breaking o
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pateldevlop&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
 </p>
 
+[![Wakatime Stats](https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=Pateldevlop&theme=tokyonight&hide_border=true)](https://wakatime.com/@Pateldevlop)
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Pateldevlop&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
