@@ -88,21 +88,15 @@ I work well independently and inside teams. I read documentation before asking q
 
 ---
 
-## 📌 Featured Projects
+## 📌 A Few Projects
 
-<p align="left">
-  <a href="https://github.com/Pateldevlop/php-master-guide">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pateldevlop&repo=php-master-guide&theme=tokyonight&hide_border=true" alt="php-master-guide" />
-  </a>
-  <a href="https://github.com/Pateldevlop/patel.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pateldevlop&repo=patel.github.io&theme=tokyonight&hide_border=true" alt="patel.github.io" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/Pateldevlop/javascript-master-guide">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pateldevlop&repo=javascript-master-guide&theme=tokyonight&hide_border=true" alt="javascript-master-guide" />
-  </a>
-</p>
+> *(More coming soon — actively updating this section)*
+
+| Project | Stack | Description |
+|---|---|---|
+| [php-master-guide](https://github.com/Pateldevlop/php-master-guide) | PHP | Step-by-step PHP developer reference |
+| [patel.github.io](https://github.com/Pateldevlop/patel.github.io) | HTML/CSS | Personal web presence |
+| [javascript-master-guide](https://github.com/Pateldevlop/javascript-master-guide) | JavaScript | JS concepts from basics to advanced |
 
 > 🔨 More original projects coming soon — actively building.
 
