@@ -51,9 +51,9 @@ Whether it's a REST API at 2am or a CI/CD pipeline that finally stops breaking o
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pateldevlop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Vikas's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pateldevlop&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Vikas's GitHub Stats" height="170" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pateldevlop&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pateldevlop&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
