@@ -164,6 +164,9 @@ I reply. I'm easy to work with. Let's build something.
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Freelance%20%7C%20Onsite-brightgreen?style=for-the-badge" alt="Open to Work" />
+</p>
+
 <p align="center"><i>Open to work · Available now · Let's talk</i></p>
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Freelance%20%7C%20Onsite-brightgreen?style=for-the-badge)
 
