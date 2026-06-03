@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Pateldevlop&color=0e75b6&style=flat-square&label=Profile+Views)
+
 # Hey, I'm Vikas Patel 👋
 
 Full-Stack Software Engineer based in India — I build things for the web that actually work.  
@@ -88,3 +90,4 @@ I reply. I'm easy to work with. Let's build something.
 ---
 
 *Open to work · Available now · Let's talk*
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Freelance%20%7C%20Onsite-brightgreen?style=for-the-badge)
